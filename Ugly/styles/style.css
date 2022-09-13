@@ -1,0 +1,53 @@
+body {
+  font-family: Inter;
+  padding: none;
+  margin:auto;
+  background-color: pink;
+  background-image: url("../assets/img/star.gif");
+}
+
+.c0{
+  background-color: lightgray;
+  border-radius: 6px;
+  width: 150px;
+  height: 100px;
+  position:relative;
+  top:70px;
+  
+
+}
+
+.xcards{width:80%}
+.hot{color:red;}
+.yel{color:yellow;}
+.ri{text-align: right;}
+/* keep all of this even though it may be useless code because nobody is gonna look at it anyway and you dont want to break anthing jerry like u did last time i still dont forgive you for that you cost us a lot of time and thats why u didnt get paid for that site so just stop being so reckless and take care of what youre supposed to take care of next time and not mess around on your instagram account we have seen you posting comments when you say you are in the bathroom for extended titmes and that is not acceptable come to my office so we can discuss further*/
+.card{
+  border: 2px solid lightgray;
+  border-radius: 6px;
+  width: 150px;
+  height:150px;
+  padding:20px;
+}
+
+.cards {
+  display: grid;
+  row-gap: 20px;
+  grid-template-columns: auto auto auto;
+}
+
+h3{padding: 8px;}
+
+
+
+.c4 h3 {color: red}
+.c4 {border: 2px solid blue;}
+.c6 { transform: rotate(-30deg);
+background-color: white;
+position:relative;
+left:-50%;
+top:50%}
+
+h1 {
+margin-left:10vw;  
+}
