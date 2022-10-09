@@ -21,10 +21,6 @@ body {
   z-index: 2;
 }
 
-#youtube-audio{
-  width:7vw;
-}
-
 #leftside img{
   width: 20vw;
 }
@@ -43,7 +39,7 @@ body {
   */
   width: 70vw;
   padding-left: 30vw;
-  padding-top: 5vh;
+  /* padding-top: 5vh; */
   padding-bottom: 5vh;
   text-align: center;
 }
