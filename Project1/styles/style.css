@@ -18,8 +18,11 @@ body {
   align-items: center;
   justify-content: center;
   text-align: center;
- 
   z-index: 2;
+}
+
+#youtube-audio{
+  width:5%;
 }
 
 #leftside img{
