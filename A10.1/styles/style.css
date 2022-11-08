@@ -1,0 +1,20 @@
+body {
+  color: black;
+  text-align:center;
+  padding:0;
+}
+
+canvas{
+  display: -webkit-box;
+  display: -moz-box;
+  display: -ms-flexbox;
+  display: -webkit-flex;
+  display: flex;
+  margin: 0 auto;
+}
+  
+h1 {
+  color: black;
+  font-family: monospace;
+}
+main script{display:inline-flex;}
